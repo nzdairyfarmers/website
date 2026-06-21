@@ -1,4 +1,6 @@
-A homepage for the New Zealand Dairy Association, a community for the rural backbone of the country.
+A homepage for the New Zealand Dairy Association.
+
+We are a community hub for the rural backbone of the country.
 
 Important links:
 - Facebook group: https://www.facebook.com/groups/nzdairy
